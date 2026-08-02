@@ -1,79 +1,202 @@
+<h1 align="center">Hi 👋, I'm Karan Bhilare</h1>
 
-## 👋 Hi, I'm Karan Bhilare  
+<h3 align="center">
+AI/ML Developer | Computer Vision | Generative AI | FastAPI
+</h3>
 
-🔭 **Currently Building:**  
-AI-powered solutions — working on an **AI Receipt OCR System (OpenCV + Tesseract + Flask)**  
+<p align="center">
+Passionate about building intelligent AI systems using Machine Learning, Computer Vision, Large Language Models, and Cloud Technologies.
+</p>
 
-💡 **What Drives Me:**  
-I’m passionate about **Data Science, Machine Learning, and solving real-world problems using AI**  
-
-👯 **Looking to Collaborate On:**  
-- Machine Learning & Data Science projects  
-- Computer Vision applications  
-- Open-source contributions (beginner to intermediate level)  
-
-🌱 **Currently Learning:**  
-- Deep Learning & Neural Networks  
-- Model Optimization & Deployment  
-- Real-world ML system design  
-
-🧠 **Core Skills:**  
-Python • Data Analysis • Machine Learning • OpenCV • Flask  
-
-💬 **Ask Me About:**  
-ML concepts, project building, or getting started in Data Science  
-
-⚡ **Fun Fact:**  
-I apply **strategic thinking from BGMI gaming 🎮** into debugging, optimization, and decision-making in code  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karanbhilare58&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/karanbhilare58?style=social" />
+  <img src="https://img.shields.io/github/stars/karanbhilare58?style=social" />
+</p>
 
 ---
 
-## 🌐 Connect With Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karanbhilare_58)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-bhilare-370ba8329)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karanbhilare58@gmail.com)  
+# 🚀 About Me
+
+- 🎓 B.E. Information Technology Student (2024–2028)
+- 🤖 Passionate about Artificial Intelligence, Machine Learning & Generative AI
+- 💡 Interested in Computer Vision, NLP, LLMs, RAG and Agentic AI
+- 🚀 Building production-ready AI applications that solve real-world problems
+- 🌱 Continuously learning modern AI technologies and scalable backend development
 
 ---
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+# 🔭 Currently Exploring
 
-## 💻 Tech Stack:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
----
-
-## 🚀 Featured Project:
-🔹 **AI Receipt OCR System**  
-- Extracts structured data from receipts using OCR  
-- Built with OpenCV, Tesseract, and Flask  
-- Focused on real-world usability and automation  
+- 🤖 AI Agents
+- 🧠 Large Language Models (LLMs)
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚡ FastAPI
+- ☁️ Google Cloud Platform
+- 🔥 Deep Learning
+- 🐳 Docker
+- 🚀 Production AI Deployment
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=karanbhilare58&theme=dark&hide_border=true&show_icons=true)  
-![](https://streak-stats.demolab.com/?user=karanbhilare58&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karanbhilare58&theme=dark&hide_border=true&layout=compact)
+# 💻 Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql"/>
+</p>
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+</p>
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing (NLP)
+- OpenCV
+- EasyOCR
+- spaCy
+- Transformers
+- T5
+- Hugging Face
+- Scikit-Learn
+- Pandas
+- NumPy
+
+### 🧠 Generative AI
+
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- AI Workflow Design
+
+### 🌐 Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
+</p>
+
+- REST APIs
+- API Integration
+- Backend Development
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux,vscode"/>
+</p>
+
+- Google Cloud Platform
+- Docker
+- Git & GitHub
+- Linux
+- Jupyter Notebook
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
+# 💼 Experience
+
+### AI & Machine Learning Virtual Intern | Pluto Academy
+
+- Performed Exploratory Data Analysis (EDA) on real-world datasets.
+- Built machine learning classification models using Scikit-learn.
+- Applied end-to-end ML workflows including preprocessing, training, and evaluation.
 
 ---
 
-⭐ *Always learning. Always building. Always improving.*
+# 🚀 Featured Projects
+
+## 🧾 Receipt Intelligence: AI-Powered OCR & Information Extraction
+
+An end-to-end AI system for extracting structured information from receipt images using Computer Vision and NLP.
+
+### Highlights
+
+- OCR preprocessing using OpenCV
+- Intelligent text extraction with EasyOCR
+- Information extraction using spaCy
+- 96.83% extraction accuracy
+- SQLite database integration
+- Dockerized deployment
+- Flask-based web application
+
+**Tech Stack**
+
+`Python` • `OpenCV` • `EasyOCR` • `spaCy` • `Flask` • `SQLite` • `Docker`
+
+---
+
+## 🤖 Transformer-Based Dialogue & Text Summarization
+
+Abstractive text summarization system powered by Google's T5 Transformer and Hugging Face.
+
+### Highlights
+
+- Fine-tuned T5 Transformer
+- Trained on the SAMSum Dataset
+- Hugging Face Transformers
+- FastAPI inference pipeline
+- GPU-accelerated text generation
+- Production-ready REST API
+
+**Tech Stack**
+
+`Python` • `PyTorch` • `Transformers` • `T5` • `Hugging Face` • `FastAPI`
+
+
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=karanbhilare58&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanbhilare58&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=karanbhilare58&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karanbhilare58&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/karan-bhilare-370ba8329">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="mailto:karanbhilare58@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://instagram.com/karanbhilare_58">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building intelligent AI solutions that create real-world impact.</i>
+</p>
