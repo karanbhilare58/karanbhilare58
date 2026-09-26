@@ -1,202 +1,150 @@
-<h1 align="center">Hi 👋, I'm Karan Bhilare</h1>
+<div align="center">
 
-<h3 align="center">
-AI/ML Developer | Computer Vision | Generative AI | FastAPI
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Karan+Bhilare;AI%2FML+Developer+%7C+Computer+Vision;Building+RAG+%26+LLM+Systems;FastAPI+%7C+LangChain+%7C+Docker" alt="Typing SVG" />
 
-<p align="center">
-Passionate about building intelligent AI systems using Machine Learning, Computer Vision, Large Language Models, and Cloud Technologies.
-</p>
+### AI/ML Developer &nbsp;•&nbsp; Computer Vision &nbsp;•&nbsp; Generative AI &nbsp;•&nbsp; FastAPI
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karanbhilare58&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/karanbhilare58?style=social" />
-  <img src="https://img.shields.io/github/stars/karanbhilare58?style=social" />
-</p>
+Building intelligent AI systems using Machine Learning, Computer Vision, Large Language Models, and Cloud Technologies.
 
----
+<br/>
 
-# 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=karanbhilare58&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/karanbhilare58?style=for-the-badge&color=0e75b6&logo=github" />
+<img src="https://img.shields.io/github/stars/karanbhilare58?style=for-the-badge&color=0e75b6" />
 
-- 🎓 B.E. Information Technology Student (2024–2028)
-- 🤖 Passionate about Artificial Intelligence, Machine Learning & Generative AI
-- 💡 Interested in Computer Vision, NLP, LLMs, RAG and Agentic AI
-- 🚀 Building production-ready AI applications that solve real-world problems
-- 🌱 Continuously learning modern AI technologies and scalable backend development
+<br/><br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-bhilare-370ba8329)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karanbhilare58@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/karanbhilare_58)
 
-# 🔭 Currently Exploring
+</div>
 
-- 🤖 AI Agents
-- 🧠 Large Language Models (LLMs)
-- 📚 Retrieval-Augmented Generation (RAG)
-- ⚡ FastAPI
-- ☁️ Google Cloud Platform
-- 🔥 Deep Learning
-- 🐳 Docker
-- 🚀 Production AI Deployment
+<br/>
 
----
+## 🚀 About Me
 
-# 💻 Tech Stack
+- 🎓 B.E. Information Technology student, Dr. D. Y. Patil Institute of Technology, Pune (2024–2028)
+- 🤖 Focused on Computer Vision, NLP, and Generative AI (RAG, LLM-backed applications)
+- ⚙️ Ships end-to-end — from model/pipeline to a Dockerized, API-served application
+- 🌱 Currently deepening Agentic AI workflows and production LLM tooling
 
-### 👨‍💻 Languages
+## 🔭 Currently Exploring
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql"/>
-</p>
+| Building with | Reading up on |
+|---|---|
+| Retrieval-Augmented Generation (RAG) | Agentic AI (multi-step, tool-using agents) |
+| LangChain | LangGraph |
+| FastAPI inference services | LLM evaluation (evals) frameworks |
+| Docker deployment | Guardrails / output validation for LLM apps |
 
-### 🤖 Artificial Intelligence & Machine Learning
+<br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-</p>
+## 💻 Tech Stack
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing (NLP)
-- OpenCV
-- EasyOCR
-- spaCy
-- Transformers
-- T5
-- Hugging Face
-- Scikit-Learn
-- Pandas
-- NumPy
+<div align="center">
 
-### 🧠 Generative AI
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql" />
 
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI
-- AI Workflow Design
+**AI / Machine Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch" />
 
-### 🌐 Backend Development
+`Machine Learning` `Deep Learning` `Computer Vision` `NLP` `OpenCV` `EasyOCR` `spaCy` `Transformers` `T5` `Hugging Face` `Scikit-Learn` `Pandas` `NumPy`
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
-</p>
+**Generative AI**
+<br/>
+`LLMs` `RAG` `LangChain` `Agentic RAG` `Prompt Engineering` `FAISS` `Groq`
 
-- REST APIs
-- API Integration
-- Backend Development
+**Backend & Deployment**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker" />
 
-### ☁️ Cloud & DevOps
+`REST APIs` `FastAPI` `Flask` `Docker`
 
-<p>
-<img src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux,vscode"/>
-</p>
+**Cloud & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=gcp,git,github,linux,vscode" />
 
-- Google Cloud Platform
-- Docker
-- Git & GitHub
-- Linux
-- Jupyter Notebook
+</div>
+
+<br/>
+
+## 💼 Experience
+
+**AI & Machine Learning Virtual Intern — Pluto Academy**
+- Performed exploratory data analysis (EDA) on real-world datasets
+- Built ML classification models using Scikit-learn
+- Ran end-to-end ML workflows: preprocessing, training, evaluation
+
+<br/>
+
+## 🛠️ Featured Projects
+
+### 🧾 Receipt Intelligence — AI-Powered OCR & Information Extraction
+End-to-end system for extracting structured data from receipt images using Computer Vision and NLP.
+
+**Highlights:** OpenCV preprocessing → EasyOCR text extraction → spaCy field extraction → 96.83% accuracy → SQLite storage → Dockerized Flask app
+
+`Python` `OpenCV` `EasyOCR` `spaCy` `Flask` `SQLite` `Docker`
+
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/karanbhilare58/OCR_Project)
 
 ---
 
-# 💼 Experience
+### 🤖 RAG Pipeline — Document Q&A with Retrieval-Augmented Generation
+A retrieval-augmented generation system that answers natural-language questions grounded in your own documents (PDF, TXT, CSV, XLSX, DOCX, JSON), reducing hallucination by keeping answers tied to retrieved context.
 
-### AI & Machine Learning Virtual Intern | Pluto Academy
+**Architecture:** LangChain document loaders → chunking (`RecursiveCharacterTextSplitter`) → `all-MiniLM-L6-v2` sentence-transformer embeddings → FAISS vector store (L2 similarity) → top-k retrieval → Groq LLM generation. Includes a separate **Agentic-RAG** module for multi-step retrieval workflows.
 
-- Performed Exploratory Data Analysis (EDA) on real-world datasets.
-- Built machine learning classification models using Scikit-learn.
-- Applied end-to-end ML workflows including preprocessing, training, and evaluation.
+`Python` `LangChain` `FAISS` `Sentence-Transformers` `Groq` `RAG`
 
----
-
-# 🚀 Featured Projects
-
-## 🧾 Receipt Intelligence: AI-Powered OCR & Information Extraction
-
-An end-to-end AI system for extracting structured information from receipt images using Computer Vision and NLP.
-
-### Highlights
-
-- OCR preprocessing using OpenCV
-- Intelligent text extraction with EasyOCR
-- Information extraction using spaCy
-- 96.83% extraction accuracy
-- SQLite database integration
-- Dockerized deployment
-- Flask-based web application
-
-**Tech Stack**
-
-`Python` • `OpenCV` • `EasyOCR` • `spaCy` • `Flask` • `SQLite` • `Docker`
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/karanbhilare58/RAG-PIPELINE)
 
 ---
 
-## 🤖 Transformer-Based Dialogue & Text Summarization
+### 📝 Transformer-Based Dialogue & Text Summarization
+Abstractive text summarization system powered by a fine-tuned T5 Transformer.
 
-Abstractive text summarization system powered by Google's T5 Transformer and Hugging Face.
+**Highlights:** Fine-tuned T5 on the SAMSum dataset → Hugging Face Transformers → FastAPI inference endpoint → GPU-accelerated generation → production-ready REST API
 
-### Highlights
+`Python` `PyTorch` `Transformers` `T5` `Hugging Face` `FastAPI`
 
-- Fine-tuned T5 Transformer
-- Trained on the SAMSum Dataset
-- Hugging Face Transformers
-- FastAPI inference pipeline
-- GPU-accelerated text generation
-- Production-ready REST API
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/karanbhilare58/text-summarizer-t5)
 
-**Tech Stack**
+<br/>
 
-`Python` • `PyTorch` • `Transformers` • `T5` • `Hugging Face` • `FastAPI`
+## 📊 GitHub Stats
 
+<div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=karanbhilare58&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanbhilare58&layout=compact&theme=tokyonight&hide_border=true" />
 
-# 📊 GitHub Statistics
+<img src="https://streak-stats.demolab.com?user=karanbhilare58&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=karanbhilare58&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanbhilare58&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=karanbhilare58&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=karanbhilare58&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
----
+## 📈 Contribution Graph
 
-# 📈 Contribution Graph
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karanbhilare58&theme=tokyo-night&hide_border=true" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karanbhilare58&theme=tokyo-night&hide_border=true" />
-</p>
+## 🐍 Contribution Snake
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
+<br/>
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/karan-bhilare-370ba8329">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="mailto:karanbhilare58@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-
-  <a href="https://instagram.com/karanbhilare_58">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Building intelligent AI solutions that create real-world impact.</i>
-</p>
+<div align="center">
+<i>Building intelligent AI solutions that create real-world impact.</i>
+</div>
