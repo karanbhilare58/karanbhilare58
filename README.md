@@ -74,6 +74,9 @@ Building intelligent AI systems using Machine Learning, Computer Vision, Large L
 
 ## 💼 Experience
 
+**Co-Lead, AI/ML — BinaryBrains, DIT** 
+- Selected to co-lead the AI/ML vertical of BinaryBrains, the AI/ML club at Dr. D. Y. Patil Institute of Technology
+
 **AI & Machine Learning Virtual Intern — Pluto Academy**
 - Performed exploratory data analysis (EDA) on real-world datasets
 - Built ML classification models using Scikit-learn
@@ -91,6 +94,8 @@ End-to-end system for extracting structured data from receipt images using Compu
 `Python` `OpenCV` `EasyOCR` `spaCy` `Flask` `SQLite` `Docker`
 
 [![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/karanbhilare58/OCR_Project)
+![Last Commit](https://img.shields.io/github/last-commit/karanbhilare58/OCR_Project?style=flat-square&color=0e75b6)
+![Repo Size](https://img.shields.io/github/repo-size/karanbhilare58/OCR_Project?style=flat-square&color=0e75b6)
 
 ---
 
@@ -102,6 +107,8 @@ A retrieval-augmented generation system that answers natural-language questions 
 `Python` `LangChain` `FAISS` `Sentence-Transformers` `Groq` `RAG`
 
 [![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/karanbhilare58/RAG-PIPELINE)
+![Last Commit](https://img.shields.io/github/last-commit/karanbhilare58/RAG-PIPELINE?style=flat-square&color=0e75b6)
+![Repo Size](https://img.shields.io/github/repo-size/karanbhilare58/RAG-PIPELINE?style=flat-square&color=0e75b6)
 
 ---
 
@@ -113,6 +120,8 @@ Abstractive text summarization system powered by a fine-tuned T5 Transformer.
 `Python` `PyTorch` `Transformers` `T5` `Hugging Face` `FastAPI`
 
 [![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/karanbhilare58/text-summarizer-t5)
+![Last Commit](https://img.shields.io/github/last-commit/karanbhilare58/text-summarizer-t5?style=flat-square&color=0e75b6)
+![Repo Size](https://img.shields.io/github/repo-size/karanbhilare58/text-summarizer-t5?style=flat-square&color=0e75b6)
 
 <br/>
 
